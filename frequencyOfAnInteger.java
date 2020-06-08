@@ -1,4 +1,5 @@
 // https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/
+//
 public class frequencyOfAnInteger {
 
   public static int firstBinarySearch(int[] elements, int l, int r, int element) {
